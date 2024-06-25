@@ -21,7 +21,6 @@
 1. Установите виртуальное окружение
 '''
 python -m venv venv
-'''
 2. Активируйте виртуальное окружение
 '''
 source venv/Scripts/activate
